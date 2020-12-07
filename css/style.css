@@ -98,7 +98,6 @@ blockquote cite {
 
 .container {
   display: table;
-  padding-top: 80px;
   width: 100%;
 }
 
@@ -118,8 +117,8 @@ blockquote cite {
 .button {
   display: inline-block;
   padding: 6px 10px;
-  color: #ffff;
-  border: 1px solid #ffff;
+  color: #ffffff;
+  border: 1px solid #ffffff;
   border-radius: 3px;
   font-weight: 700;
   line-height: normal;
