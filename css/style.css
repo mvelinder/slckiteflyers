@@ -117,9 +117,8 @@ blockquote cite {
 .button {
   display: inline-block;
   padding: 6px 10px;
-  color: #ffffff;
-  border: 2px solid #ffffff;
-  border-color: #ffffff;
+  color: #ffff;
+  border: 1px solid #ffff;
   border-radius: 3px;
   font-weight: 700;
   line-height: normal;
